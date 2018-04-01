@@ -1,9 +1,18 @@
-# Things-I-Learned-Today
-A chronological list of content from my [TILT](https://medium.com/things-i-learned-today-tilt) series.
+# A Gilt-Edged Series to CS Concepts
+A chronological list of content from my [blog](https://jshilpa.com/)
 
-### February
-- [Comprehending Comprehension in Python](https://medium.com/things-i-learned-today-tilt/comprehensions-abf58d9e4bfc)
-- [If Bubble Sort is the answer, it must have been a really verbose question](https://medium.com/things-i-learned-today-tilt/if-bubble-sort-is-the-answer-it-must-have-been-a-really-verbose-question-29776deb707)
-- [The Ultimate Guide to Big-O Notation — Learning Through Examples](https://medium.com/things-i-learned-today-tilt/the-ultimate-guide-to-big-o-notation-learning-through-examples-274db48a1ba9)
-- [The Ultimate Beginners Guide To Analysis of Algorithm](https://medium.com/things-i-learned-today-tilt/the-ultimate-beginners-guide-to-analysis-of-algorithm-e667936ddb0b)
-- [Modules Vs Packages In Python — Learn the Difference Under A Minute](https://medium.com/things-i-learned-today-tilt/modules-vs-packages-in-python-learn-the-difference-under-a-minute-f6d376717976)
+### CS Basics
+-[The Story of 8 and 256: IT From BIT] (https://jshilpa.com/the-story-of-8-and-256-it-from-bit/)
+
+### Algorithms
+ - [The Ultimate Beginners Guide To Analysis of Algorithm] (https://jshilpa.com/the-ultimate-beginners-guide-to-analysis-of-algorithm/)
+ -  [The Ultimate Guide to Big-O Notation — Learning Through Examples](https://jshilpa.com/the-ultimate-guide-to-big-o-notation-learning-through-examples/)
+ - [If Bubble Sort is the answer, it must have been a really verbose question](https://jshilpa.com/bubbleology%E2%80%8A-%E2%80%8Athe-study-of-bubble-sort/)
+ 
+### Data Structures
+-[Is there life after learning data structures?] (https://jshilpa.com/is-there-life-after-learning-data-structures/)
+- [Array of [‘s’, ‘u’, ’n’, ‘s’, ‘h’, ‘i’, ’n’, ‘e’]](https://jshilpa.com/array-of-s-u-n-s-h-i-n-e/)
+- [Stacks in a nutshell- Learning through examples](https://jshilpa.com/stacks-in-a-nutshell-learning-through-examples/)
+- [Seekers Guide To Linked List] (https://jshilpa.com/seekers-guide-to-linked-list/)
+
+
