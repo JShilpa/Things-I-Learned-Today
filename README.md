@@ -13,6 +13,6 @@ A chronological list of content from my [blog](https://jshilpa.com/)
 - [Is there life after learning data structures?](https://jshilpa.com/is-there-life-after-learning-data-structures/)
 - [Array of [‘s’, ‘u’, ’n’, ‘s’, ‘h’, ‘i’, ’n’, ‘e’]](https://jshilpa.com/array-of-s-u-n-s-h-i-n-e/)
 - [Stacks in a nutshell- Learning through examples](https://jshilpa.com/stacks-in-a-nutshell-learning-through-examples/)
-- [Seekers Guide To Linked List] (https://jshilpa.com/seekers-guide-to-linked-list/)
+- [Seekers Guide To Linked List](https://jshilpa.com/seekers-guide-to-linked-list/)
 
 
