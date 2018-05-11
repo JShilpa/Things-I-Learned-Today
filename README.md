@@ -12,8 +12,10 @@ A chronological list of content from my [blog](https://jshilpa.com/)
  
 ### Data Structures
 - [Is there life after learning data structures?](https://jshilpa.com/is-there-life-after-learning-data-structures/)
-- [Arrays & Their Performace](http://toolsqa.com/data-structures/array-in-programming/)
-- [Array of [‘s’, ‘u’, ’n’, ‘s’, ‘h’, ‘i’, ’n’, ‘e’]](https://jshilpa.com/array-of-s-u-n-s-h-i-n-e/)
+- Arrays:
+    * [Arrays & Their Performance](http://toolsqa.com/data-structures/array-in-programming/)
+    * [How Arrays are Stored In The Memory](https://jshilpa.com/array-of-s-u-n-s-h-i-n-e/)
+    * [Dynamic Arrays](https://jshilpa.com/array-on-steroids/)
 - [Stacks in a nutshell- Learning through examples](https://jshilpa.com/stacks-in-a-nutshell-learning-through-examples/)
 - [Seekers Guide To Linked List](https://jshilpa.com/seekers-guide-to-linked-list/)
 
