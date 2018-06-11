@@ -17,6 +17,9 @@ A chronological list of content from my [blog](https://jshilpa.com/)
     * [How Arrays are Stored In The Memory](https://jshilpa.com/array-of-s-u-n-s-h-i-n-e/)
     * [Dynamic Arrays](https://jshilpa.com/array-on-steroids/)
 - [Stacks in a nutshell- Learning through examples](https://jshilpa.com/stacks-in-a-nutshell-learning-through-examples/)
-- [Seekers Guide To Linked List](https://jshilpa.com/seekers-guide-to-linked-list/)
+- Linked List:
+   * [Seekers Guide To Linked List](https://jshilpa.com/seekers-guide-to-linked-list/)
+   * [Different Types Of Linked List & Array Vs Linked List](http://toolsqa.com/data-structures/linked-list-in-data-structures/)
+- [Hash Tables & Hash Function](http://toolsqa.com/data-structures/hash-tables-in-data-structures/)
 
 
